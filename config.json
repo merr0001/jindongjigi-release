@@ -1,0 +1,5 @@
+{
+  "ver": 1,
+  "strength": {"lo": 3.0, "hi": 3.3, "edge": 3.3, "dbl": 3.72},
+  "app": {"code": 51, "name": "4.4", "apk": "https://raw.githubusercontent.com/merr0001/jindongjigi-release/main/jindongjigi.apk", "note": "v4.4 · 정보 탭에서 설치"}
+}
