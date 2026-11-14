@@ -1,6 +1,6 @@
 {
-  "ver": 10,
+  "ver": 11,
   "strength": {"lo": 3.0, "hi": 3.3, "edge": 3.4, "max": 3.4, "dbl": 3.72},
   "gyroLevel": false,
-  "app": {"code": 61, "name": "5.4", "apk": "https://raw.githubusercontent.com/merr0001/jindongjigi-release/main/jindongjigi.apk", "note": "v5.4 · 정보 탭에서 설치"}
+  "app": {"code": 62, "name": "5.5", "apk": "https://raw.githubusercontent.com/merr0001/jindongjigi-release/main/jindongjigi.apk", "note": "v5.5 · 정보 탭에서 설치"}
 }
